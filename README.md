@@ -1,3 +1,5 @@
+Doesn't work with saved games.
+
 # MorePlayersImproved
 Custom version to support for R.E.P.O. beta, with support for public lobbies.
 - Public lobby support is enabled by default, can be disabled in config
